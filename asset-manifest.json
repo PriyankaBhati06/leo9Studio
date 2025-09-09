@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/leo9-clone/static/css/main.2d2209c7.css",
+    "main.js": "/leo9-clone/static/js/main.84f54ca2.js",
+    "static/js/488.281da92b.chunk.js": "/leo9-clone/static/js/488.281da92b.chunk.js",
+    "static/media/TeamImage.avif": "/leo9-clone/static/media/TeamImage.6cb9bb630d969bf96d42.avif",
+    "index.html": "/leo9-clone/index.html",
+    "main.2d2209c7.css.map": "/leo9-clone/static/css/main.2d2209c7.css.map",
+    "main.84f54ca2.js.map": "/leo9-clone/static/js/main.84f54ca2.js.map",
+    "488.281da92b.chunk.js.map": "/leo9-clone/static/js/488.281da92b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d2209c7.css",
+    "static/js/main.84f54ca2.js"
+  ]
+}
